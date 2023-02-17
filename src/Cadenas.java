@@ -5,7 +5,7 @@ public class Cadenas {
         Scanner read = new Scanner(System.in);
 
         // Ejercicio 1: Escribir por pantalla cada carácter de una cadena introducida por teclado.
-
+        //nuevo comentario
         /*String cadena = "Cadena en carácteres";
         String[] cadenaCompleta = cadena.split("");
         System.out.println(Arrays.toString(cadenaCompleta));*/
